@@ -9,7 +9,7 @@ const {
   EmbedBuilder
 } = require("discord.js");
 
-const TOKEN = "YOUR_BOT_TOKEN";
+const TOKEN = "MTUxMjkwODU5NDA2NzI3OTkxMg.GQyCib.kXecwPntJHLvhJyAGHl3wPnsPgY1UJ_WmlhSQQ";
 const CLIENT_ID = "1512908594067279912";
 const GUILD_ID = "1512574832552837171";
 

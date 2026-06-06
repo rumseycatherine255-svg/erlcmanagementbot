@@ -10,8 +10,8 @@ const {
 } = require("discord.js");
 
 const TOKEN = "YOUR_BOT_TOKEN";
-const CLIENT_ID = "YOUR_CLIENT_ID";
-const GUILD_ID = "YOUR_GUILD_ID";
+const CLIENT_ID = "1512908594067279912";
+const GUILD_ID = "1512574832552837171";
 
 const client = new Client({
   intents: [
